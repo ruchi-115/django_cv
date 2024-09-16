@@ -1,4 +1,4 @@
-# CV Webpage Project - djangocv.pythonanywhere.com/
+# CV Django Project - https://djangocv.pythonanywhere.com/
 
 This is a Django project that displays a CV webpage. The content, including education, work experience, skills, projects, and achievements, is dynamically rendered using Django's template system. The HTML page is styled using CSS.
 
